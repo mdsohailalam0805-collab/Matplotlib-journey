@@ -1,5 +1,5 @@
 
-"""import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt
 import numpy as np
 
 x=([2,5,6,1,5])
@@ -17,7 +17,7 @@ plt.grid(linestyle=':',color="k",linewidth=2,)
 plt.grid(axis="y",color="red")
 #plt.grid(False) disable grid
 
-plt.show()"""
+plt.show()
 
 
 import matplotlib.pyplot as plt
