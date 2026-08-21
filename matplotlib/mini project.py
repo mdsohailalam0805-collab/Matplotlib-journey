@@ -1,9 +1,12 @@
+
+# students marks predictor
+
 import pandas as pd
 import matplotlib.pyplot as plt
 
 # Dataset
 data = {
-    "Student": ["Aman", "Rahul", "Sohail", "Waseem", "Altamash", "Arjun"],
+    "Student": ["sonu", "Harsh", "Sohail", "Waseem", "Altamash", "shivam"],
     "Math": [78, 65, 90, 72, 85, 60],
     "Python": [85, 70, 95, 80, 88, 65],
     "ML": [80, 68, 92, 75, 90, 62]
