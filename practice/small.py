@@ -16,3 +16,9 @@ import matplotlib.pyplot as plt
 
 movies = ["A", "B", "C", "D"]
 ratings = [8, 6, 9, 7]
+
+plt.bar(movies, ratings)
+plt.xlabel("Movies")
+plt.ylabel("Rating")
+plt.title("Movie Ratings")
+plt.show()
