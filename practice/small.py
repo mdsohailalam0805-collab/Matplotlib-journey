@@ -9,3 +9,10 @@ plt.xlabel("X")
 plt.ylabel("Y")
 plt.title("Simple Line Plot")
 plt.show()
+
+
+
+import matplotlib.pyplot as plt
+
+movies = ["A", "B", "C", "D"]
+ratings = [8, 6, 9, 7]
